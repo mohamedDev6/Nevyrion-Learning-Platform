@@ -1,11 +1,3 @@
-فاهمك. أنت عايز **README رئيسي للمشروع نفسه**، يكون هو أول حاجة أي حد يفتح الـGitHub يشوفها، ويشرح المشروع، فكرته، الـMVP، الـarchitecture، ويعمل Navigation للـdocumentation كلها.
-
-وده فعلًا أفضل من إن الـREADME يبقى مجرد `React + Strapi` وخلاص، لأننا عاملين Documentation محترمة للمشروع.
-
-حطه في:
-
-`README.md`
-
 ````md
 # Nevyrion Learning
 
@@ -1026,10 +1018,3 @@ The documentation defines the foundation.
 The implementation brings it to life.
 
 ---
-
-## Nevyrion Learning
-
-**Academic MVP — Version 1.0.0**
-
-Built with React + Strapi.
-```
