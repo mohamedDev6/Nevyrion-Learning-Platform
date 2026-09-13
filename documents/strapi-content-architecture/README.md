@@ -1,7 +1,3 @@
-تمام. ده الملف كامل من البداية للنهاية، ومكتوب كـ **Documentation فعلية للمشروع**، مش مجرد ملاحظات. تقدر تنسخه مباشرة إلى:
-
-`docs/architecture/strapi-content-architecture.md`
-
 ````md
 # Strapi Content Architecture
 
