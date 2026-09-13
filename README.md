@@ -1000,7 +1000,7 @@ If the answer is no, the change should be reviewed before implementation.
 | [Features](documents/05-features.md)                                         | Platform features and behavior                 |
 | [Database Documentation](documents/database/README.md)                               | Database structure and relationships           |
 | [System Architecture](documents/system-architecture/README.md)                              | React, Strapi, and database architecture       |
-| [Strapi Content Architecture](documents/strapi-content-architecture.md) | Strapi Content Types and relationships         |
+| [Strapi Content Architecture](documents/strapi-content-architecture/README.md) | Strapi Content Types and relationships         |
 | [User Flows](documents/user-flows/README.md)                                         | Critical platform user journeys                |
 
 ---
