@@ -220,30 +220,3 @@ Learning Path Steps ↔ Courses
 This database design represents the Academic MVP.
 
 Future versions may introduce additional entities or modify existing relationships as new platform requirements are introduced.
-
-## Important Note
-
-I **intentionally omitted the data types and SQL schemas** from the README.
-
-The purpose of the README here is to explain:
-
-> **What the database does and what it consists of.**
-
-The ERD, on the other hand, is what illustrates the **tables, relationships, and PKs/FKs** in detail.
-
-This way, you have:
-
-```text
-PRD
- │
- ├── Features
- ├── Business Rules
- ├── User Personas
- └── MVP Requirements
-
-System Design
- │
- ├── Architecture README
- └── Database README
-       └── ERD
-```
